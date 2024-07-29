@@ -68,7 +68,7 @@ define(['managerAPI',
             header: 'Welcome'
         }],
 
-        demogenderscienceiat_instructions: [{
+       /* demogenderscienceiat_instructions: [{
             inherit: 'instructions',
             name: 'demogenderscienceiat_instructions',
             templateUrl: 'demogenderscienceiat_instructions.jst',
@@ -81,7 +81,7 @@ define(['managerAPI',
             name: 'explicits',
             scriptUrl: 'explicits.js'
 		//templateUrl: 'iat10.jst',
-        }],
+        }],*/
 
         genderscienceiat: [{
             type: 'time',
